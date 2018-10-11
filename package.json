@@ -1,0 +1,14 @@
+{
+  "name": "es6-algorithms",
+  "version": "1.0.0",
+  "description": "This repo contians different algorithms problems and the solution to those problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest **/**/test.js --watch"
+  },
+  "author": "Liav Avnaim (LiaVinci)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
